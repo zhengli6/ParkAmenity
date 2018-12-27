@@ -8,8 +8,11 @@ Project includes:
 3) Extract park amenity features (trail, dog parks, court...) by keywords filtering/searching and compute sentiment score for each of extracted features. 
 
 Sample Extracted features:
-![extracted feature opinions](feature_opinion.txt)
+
+[extracted feature opinions](feature_opinion.txt)
+
 Sample results:
+
 ![Griggs_Park](Griggs_Park.png)
 ![Klyde_Park](Klyde_Park.png)
 To be added.
