@@ -8,5 +8,5 @@ Project includes:
 3) Extract park amenity features (trail, dog parks, court...) by keywords filtering/searching and compute sentiment score for each of extracted features. 
 
 Sample results:
-
+![Klyde_Park](Klyde_Park.png)
 To be added.
