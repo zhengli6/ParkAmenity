@@ -1,0 +1,349 @@
+Griggs Parks, Dallas,TX
+----------------------------------------------------------------------------------------------------
+park
+Positive: 18
+          great potential park grade appropriately rebuilt .
+          little rain puddle many place throughout park .
+          lack many amenity park like klyde warren .
+Neutral: 3
+          dallas offer several actual dog park , mutt's , northpark dog park , even white rock lake .
+          break ex dude park killer
+          park two baseball / softball field basketball court .
+Negative: 2
+          nice park , bad dog owner don't pick dog poop !
+          uptown spent lot money renovate park .
+----------------------------------------------------------------------------------------------------
+dog
+Positive: 11
+          city seem try crack dog owner let dog leash post signage don't seem much deterrent .
+          park would much well off-leash dog absolutely everywhere poop everywhere else .
+          it's kind smelly poop never time go don't encounter off-leash dog three .
+Neutral: 2
+          dallas offer several actual dog park , mutt's , northpark dog park , even white rock lake .
+          usable space sport fin people $ 200 dog leash .
+Negative: 2
+          nice park , bad dog owner don't pick dog poop !
+          dog run around without leash , careful dog feces .
+----------------------------------------------------------------------------------------------------
+park dog
+Positive: 3
+          super cool park dog work
+          it's nice little park local turn dog park almost dogs leash .
+          great dog park !
+Neutral: 1
+          dallas offer several actual dog park , mutt's , northpark dog park , even white rock lake .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+space
+Positive: 7
+          great open space soccer catch , tree young little bench seat .
+          would nice pavilion could space childrens party .
+          03/25 / 17 - new playground , lot open space run around play , centrally locate .
+Neutral: 1
+          usable space sport fin people $ 200 dog leash .
+Negative: 1
+          there's small playground overall , griggs large green space .
+----------------------------------------------------------------------------------------------------
+place
+Positive: 7
+          awesome place come exercise , let pooch stretch leg sit back enjoy dallas skyline .
+          little rain puddle many place throughout park .
+          still great place
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+lot
+Positive: 1
+          03/25 / 17 - new playground , lot open space run around play , centrally locate .
+Neutral: 2
+          lot doggy droppings ...
+          lot pet owner let dog leash run around .
+Negative: 2
+          uptown spent lot money renovate park .
+          close wayyy longer plan it's lot less usable .
+----------------------------------------------------------------------------------------------------
+owner
+Positive: 3
+          city seem try crack dog owner let dog leash post signage don't seem much deterrent .
+          popular dog owner aren't leash .
+          also patrol officer frequently hand citation pet owner unleash pet .
+Neutral: 1
+          lot pet owner let dog leash run around .
+Negative: 1
+          nice park , bad dog owner don't pick dog poop !
+----------------------------------------------------------------------------------------------------
+dog owner
+Positive: 2
+          city seem try crack dog owner let dog leash post signage don't seem much deterrent .
+          popular dog owner aren't leash .
+Neutral: 0
+Negative: 1
+          nice park , bad dog owner don't pick dog poop !
+----------------------------------------------------------------------------------------------------
+people
+Positive: 1
+          renovate wasn't prettiest park ever , always full dog lover people exercise play sport .
+Neutral: 1
+          usable space sport fin people $ 200 dog leash .
+Negative: 1
+          two small picnic table 8 people total .
+----------------------------------------------------------------------------------------------------
+pet
+Positive: 3
+          also patrol officer frequently hand citation pet owner unleash pet .
+          please responsible dog mom / dad protect pet keep leash .
+          beautiful place , family pet friendly
+Neutral: 2
+          city ordinance pet remain leashed time .
+          lot pet owner let dog leash run around .
+Negative: 1
+          dangerous pet , also leash pet .
+----------------------------------------------------------------------------------------------------
+pet owner
+Positive: 1
+          also patrol officer frequently hand citation pet owner unleash pet .
+Neutral: 1
+          lot pet owner let dog leash run around .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+leash
+Positive: 2
+          always blast - leash quite dogs run like there's tomorrow ... park nice open still fence around access road ensure safety !
+          it's nice little park local turn dog park almost dogs leash .
+Neutral: 1
+          usable space sport fin people $ 200 dog leash .
+Negative: 1
+          dog run around without leash , careful dog feces .
+----------------------------------------------------------------------------------------------------
+play
+Positive: 4
+          dog love park , perfect bringing afternoon play puppy get plenty energy .
+          03/25 / 17 - new playground , lot open space run around play , centrally locate .
+          renovate wasn't prettiest park ever , always full dog lover people exercise play sport .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+exercise
+Positive: 3
+          awesome place come exercise , let pooch stretch leg sit back enjoy dallas skyline .
+          best park bring furry friends get exercise !
+          nice place exercise picnic .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+dallas
+Positive: 3
+          awesome place come exercise , let pooch stretch leg sit back enjoy dallas skyline .
+          gorgeous park state thomas neighborhood dallas .
+          offer playground fantastic view dallas skyline walk hilltop !
+Neutral: 1
+          dallas offer several actual dog park , mutt's , northpark dog park , even white rock lake .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+playground
+Positive: 2
+          nice playground .
+          03/25 / 17 - new playground , lot open space run around play , centrally locate .
+Neutral: 0
+Negative: 1
+          there's small playground overall , griggs large green space .
+----------------------------------------------------------------------------------------------------
+area
+Positive: 2
+          wish shade area big water fountain middle would almost complete park .
+          great space , open area type door activity .
+Neutral: 1
+          use open area opportunity play fetch .
+Negative: 1
+          play area little one though .
+----------------------------------------------------------------------------------------------------
+sport
+Positive: 1
+          renovate wasn't prettiest park ever , always full dog lover people exercise play sport .
+Neutral: 1
+          usable space sport fin people $ 200 dog leash .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+sport play
+Positive: 1
+          renovate wasn't prettiest park ever , always full dog lover people exercise play sport .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+mound
+Positive: 0
+Neutral: 1
+          create mound either sit see downtown shield downtown .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+time
+Positive: 1
+          it's kind smelly poop never time go don't encounter off-leash dog three .
+Neutral: 2
+          city ordinance pet remain leashed time .
+          get fenced every time rain unusable .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+basketball
+Positive: 1
+          basketball court north side great place walk jog .
+Neutral: 1
+          park two baseball / softball field basketball court .
+Negative: 1
+          usually pick game basketball week sort class go ( yoga , boot camp ) .
+----------------------------------------------------------------------------------------------------
+run
+Positive: 2
+          03/25 / 17 - new playground , lot open space run around play , centrally locate .
+          good run track 1/4 mile around .
+Neutral: 1
+          lot pet owner let dog leash run around .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+part
+Positive: 3
+          pretty location safe part town .
+          nice part uptown
+          mention , entire middle part park major drainage issue .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+sit
+Positive: 1
+          awesome place come exercise , let pooch stretch leg sit back enjoy dallas skyline .
+Neutral: 1
+          create mound either sit see downtown shield downtown .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+skyline
+Positive: 1
+          awesome place come exercise , let pooch stretch leg sit back enjoy dallas skyline .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+mention
+Positive: 1
+          mention , entire middle part park major drainage issue .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+renovate
+Positive: 1
+          renovate wasn't prettiest park ever , always full dog lover people exercise play sport .
+Neutral: 0
+Negative: 1
+          uptown spent lot money renovate park .
+----------------------------------------------------------------------------------------------------
+rain
+Positive: 1
+          little rain puddle many place throughout park .
+Neutral: 1
+          get fenced every time rain unusable .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+issue
+Positive: 2
+          mention , entire middle part park major drainage issue .
+          one big issue park much space !
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+griggs
+Positive: 1
+          griggs host many community event fitness group !
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+city
+Positive: 1
+          city seem try crack dog owner let dog leash post signage don't seem much deterrent .
+Neutral: 1
+          city ordinance pet remain leashed time .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+post
+Positive: 2
+          city seem try crack dog owner let dog leash post signage don't seem much deterrent .
+          old post .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+construction
+Positive: 1
+          construction complete year ago .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+road
+Positive: 1
+          always blast - leash quite dogs run like there's tomorrow ... park nice open still fence around access road ensure safety !
+Neutral: 0
+Negative: 1
+          bit noisy due road next .
+----------------------------------------------------------------------------------------------------
+view
+Positive: 1
+          offer playground fantastic view dallas skyline walk hilltop !
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+court
+Positive: 1
+          basketball court north side great place walk jog .
+Neutral: 1
+          park two baseball / softball field basketball court .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+basketball court
+Positive: 1
+          basketball court north side great place walk jog .
+Neutral: 1
+          park two baseball / softball field basketball court .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+walk
+Positive: 2
+          basketball court north side great place walk jog .
+          nice place walk
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+picnic
+Positive: 1
+          nice place exercise picnic .
+Neutral: 0
+Negative: 1
+          two small picnic table 8 people total .
+----------------------------------------------------------------------------------------------------
+please
+Positive: 1
+          please responsible dog mom / dad protect pet keep leash .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+fun
+Positive: 0
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+afternoon
+Positive: 2
+          dog love park , perfect bringing afternoon play puppy get plenty energy .
+          clean , dog friendly , fitness class often see meet afternoon .
+Neutral: 0
+Negative: 0
+----------------------------------------------------------------------------------------------------
+get
+Positive: 1
+          dog love park , perfect bringing afternoon play puppy get plenty energy .
+Neutral: 1
+          get fenced every time rain unusable .
+Negative: 0
+----------------------------------------------------------------------------------------------------
+class
+Positive: 1
+          clean , dog friendly , fitness class often see meet afternoon .
+Neutral: 0
+Negative: 1
+          usually pick game basketball week sort class go ( yoga , boot camp ) .
+----------------------------------------------------------------------------------------------------
