@@ -9,7 +9,7 @@ Project includes:
 
 Sample Extracted features:
 Griggs Parks, Dallas,TX
-----------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 park
 Positive: 18
           great potential park grade appropriately rebuilt .
@@ -22,7 +22,7 @@ Neutral: 3
 Negative: 2
           nice park , bad dog owner don't pick dog poop !
           uptown spent lot money renovate park .
-----------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 dog
 Positive: 11
           city seem try crack dog owner let dog leash post signage don't seem much deterrent .
@@ -34,7 +34,7 @@ Neutral: 2
 Negative: 2
           nice park , bad dog owner don't pick dog poop !
           dog run around without leash , careful dog feces .
-----------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 playground
 Positive: 2
           nice playground .
@@ -42,7 +42,7 @@ Positive: 2
 Neutral: 0
 Negative: 1
           there's small playground overall , griggs large green space .
-----------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 area
 Positive: 2
           wish shade area big water fountain middle would almost complete park .
@@ -51,7 +51,7 @@ Neutral: 1
           use open area opportunity play fetch .
 Negative: 1
           play area little one though .
-----------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Sample results:
 ![Griggs_Park](Griggs_Park.png)
